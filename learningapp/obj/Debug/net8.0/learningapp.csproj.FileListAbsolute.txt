@@ -132,3 +132,4 @@ D:\Education\AZ-204-course\03.045 Application with db connection\learningapp\obj
 D:\Education\AZ-204-course\03.045 Application with db connection\learningapp\obj\Debug\net8.0\learningapp.pdb
 D:\Education\AZ-204-course\03.045 Application with db connection\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
 D:\Education\AZ-204-course\03.045 Application with db connection\learningapp\obj\Debug\net8.0\ref\learningapp.dll
+D:\Education\AZ-204-course\03.045 Application with db connection\learningapp\obj\Debug\net8.0\learningapp.sourcelink.json
